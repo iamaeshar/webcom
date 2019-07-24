@@ -54,11 +54,11 @@
 					<div class="heading-underline bg-primary"></div>
 					<br>
 					<p>The robot here not physically. But one software to trading Gold automatically.
-						Without you carried out the order Buy/Sell, the robot did himself. Autotrading the robot or
+						Without you carried out the order Buy/Sell, the robot did himself. Auto trading the robot or
 						that often was acknowledged as Expert Advisor.</p>
 
 					<p>Gold Trading Software & Forex Trading software that worked personally looked
-						for the opportunity open trade, good open sell or buy Yes!!! Completely without your
+						for the opportunity open trade, good open sell or buy yes!!! Completely without your
 						interference to do OPEN TRADE good BUY / SELL. Robot worked automatically, for your computer
 						connected to the internet.</p>
 

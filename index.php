@@ -233,7 +233,7 @@
                             <h5 class="card-title text-primary">Trade Goldmine Analysis Software</h5>
                             <div class="heading-underline bg-secondary"></div>
                             <br>
-                            <p>Trade Goldmine Analysis Software generates Buy/Sell signals on NSE,FNO,MCX,NCDEX and
+                            <p>Trade Goldmine Analysis Software generates Buy/Sell signals on NSE, FNO, MCX, NCDEX and
                                 Currency market through sound and alerts. Gold Trading Software & Forex Trading gives
                                 these signals on the basis of 26 technical parameters.</p>
                         </div>
@@ -248,7 +248,7 @@
                             <h5 class="card-title text-primary">Trade Goldmine Robo - Automatic Trading Software</h5>
                             <div class="heading-underline bg-secondary"></div>
                             <br>
-                            <p>This robo works in Nse.mcx and currency market and connects with ODIN terminal
+                            <p>This robo works in Nse, MCX, currency market and connects with ODIN terminal
                                 automatically. It takes buy and sell trades automatically. It works on Indian Market. An
                                 automated trading system (ATS) is a computer.</p>
                         </div>
@@ -288,7 +288,7 @@
                         </div>
                         <div class="card-body">
                             <p class="card-text">Webcom Etrade take cares of complete customare care 24x7 on dedicated
-                                chat,emails and through vps servers. We ensure that our customers should be completely
+                                chat, emails and through vps servers. We ensure that our customers should be completely
                                 satisfied while trading or while using the software. We give complete
                                 training on our software with documentation in CD.</p>
                         </div>
@@ -413,7 +413,7 @@
                         <div class="card-body">
                             <h5 class="card-title">Android &amp; iOS</h5>
                             <p class="card-text">To download the android or iOS App to your mobile click on the
-                                respective ion.
+                                respective icon.
                             </p>
                             <div class="container">
                                 <div class="row">

@@ -40,13 +40,13 @@
                     <h2>Trade Goldmine Robo - Automatic Trading</h2>
                     <div class="heading-underline bg-primary"></div>
                     <br>
-                    <p>This robo works in NSE, MCX, currency market and connects with ODIN terminal automatically. It takes buy and sell trades automatically. It works on Indian Market. An automated trading system (ATS) is a computer trading program that
-                        automatically submits trades to an exchange. As of the year 2010 more than 70% of the stock shares traded on the NYSE and NASDAQ are generated from automated trading systems.They are designed to trade stocks, futures and forex
+                    <p>This robo works in NSE, MCX, and currency market and connects with ODIN terminal automatically. It takes buy and sell trades automatically. It works on Indian Market. An automated trading system (ATS) is a computer trading program that
+                        automatically submits trades to an exchange. As of the year 2010 more than 70% of the stock shares traded on the NYSE and NASDAQ are generated from automated trading systems. They are designed to trade stocks, futures and forex
                         based on a predefined set of rules which determine when to enter a trade, when to exit it and how much to invest in it.</p>
 
                     <p>Algorithmic trading, also called automated trading, black-box trading, or algo trading, is the use of electronic platforms for entering trading orders with an algorithm which executes pre-programmed trading instructions whose variables
                         may include timing, price, or quantity of the order, or in many cases initiating the order without human intervention. Algorithmic trading is widely used by investment banks, pension funds, mutual funds, and other buy-side (investor-driven)
-                        institutional traders, to divide large trades into several smaller trades to manage market impact and risk.Sell side traders, such as market makers and some hedge funds, provide liquidity to the market, generating and executing
+                        institutional traders, to divide large trades into several smaller trades to manage market impact and risk. Sell side traders, such as market makers and some hedge funds, provide liquidity to the market, generating and executing
                         orders automatically. Trading system designers / programmers often test their automated trading systems on historical or current market data in order to determine whether the underlying algorithm guiding the system is profitable
                         or not. Backtesting software are special trading platforms which enable trading system designer to develop and test their trading systems on historical market data while aiming to produce optimal historical results
                     </p>

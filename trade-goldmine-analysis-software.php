@@ -50,16 +50,16 @@
                     <h2>Trade Goldmine Analysis Software</h2>
                     <div class="heading-underline bg-primary"></div>
                     <br>
-                    <p>Trade Goldmine Analysis Software generates Buy/Sell signals on NSE,FNO,MCX,NCDEX and Currency
+                    <p>Trade Goldmine Analysis Software generates Buy/Sell signals on NSE, FNO, MCX, NCDEX and Currency
                         market through sound and alerts. Gold Trading Software & Forex Trading gives these signals on the
                         basis of 26 technical parameters. The accuracy
-                        is 80%.There are planty of buy/sell trading softwares, Gold Trading Software & Forex Trading
+                        is 80%.There are plenty of buy/sell trading software’s, Gold Trading Software & Forex Trading
                         Software available in the market but Trade Goldmine software is not one of them. Trade Goldmine
                         software not only generates the signals
                         buy also gives 95% accuracy on different market conditions. </p>
 
                     <p>Gold Trading Software & Forex Trading software works on all Market conditions where other trading
-                        softwares only work on simple market conditions. The basic reason why Trade Goldmine software
+                    software’s only work on simple market conditions. The basic reason why Trade Goldmine software
                         works differently because it not only works
                         on moving averages but it works on 26 technical parameters such as : - Price, Trend, Momentum,
                         Direction, Divergence, Volume, SMA, EMA, xAverage, Ergodic Indicator, Numerator, Denominator,

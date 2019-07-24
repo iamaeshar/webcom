@@ -55,7 +55,7 @@
                         silver buy sell signals.
                     </p>
                     <p>World class education coupled with training on powerful & user-friendly state-of-the-art Trade
-                        GoldMine Software are just the right blend to make big profits out of the trading markets.
+                        Goldmine Software are just the right blend to make big profits out of the trading markets.
                         Students shall be trained by industry experienced
                         trainers on market trends and patterns in the marketplace. Students also get to learn technical
                         and fundamental analytic strategies required for making quick business decisions. It would not
@@ -70,15 +70,15 @@
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12 text-justify">
                     <p> Webcom Forex Trading School also focus on imparting quality training on International Market,
-                        Stock, Index & Commodities with the help of state-of-the-art Trade GoldMine Software, latest
+                        Stock, Index & Commodities with the help of state-of-the-art Trade Goldmine Software, latest
                         curriculum & senior professors.</p>
 
                     <p> Webcom Forex Trading School also focus on imparting quality training on International Market,
-                        Stock, Index & Commodities with the help of state-of-the-art Trade GoldMine Software, latest
+                        Stock, Index & Commodities with the help of state-of-the-art Trade Goldmine Software, latest
                         curriculum & senior professors.</p>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 text-justify">
-                    <h3>Our Some noted Achievements</h3>
+                    <h3>Our some noted Achievements</h3>
                     <div class="heading-underline bg-primary"></div>
                     <br>
                     <p><b>Times Research and Business Sphere magazine</b> each, for being the best IT Training Institute

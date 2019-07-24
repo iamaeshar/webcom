@@ -4,9 +4,9 @@
 <head>
 	<title>Forex Trading - Forex Trading Software,Online Forex Trading Software in India</title>
 	<meta name="description"
-		content="Forex Trading Software Company – Award winning online forex trading software company. We ranked number 1 in online trading software companies." />
+		content="Forex Trading Software Company – Award winning online Forex trading software company. We ranked number 1 in online trading software companies." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="gold trading software, Forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />
@@ -34,7 +34,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/forex-trading-software.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/Forex-trading-software.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="trade-goldmine-robo" class="pt-5 pb-5">
@@ -57,16 +57,16 @@
 					
 					<br>
 					
-					<p>ForEX stands for the Foreign Exchange Market, also denominated as an over the
+					<p>Forex stands for the Foreign Exchange Market, also denominated as an over the
 						counter Financial Trading Market where brokers & dealers negotiate directly with one another
-						attributing to International Currencies as assets. Hence, the Foreign Exchange islike twin
+						attributing to International Currencies as assets. Hence, the Foreign Exchange is like twin
 						to barter only having a modern approach, changing one country's currency into another, for
 						the purpose of tourism, commerce or other variety of reasons. This designates the Foreign
 						Central Exchange as the biggest geographic trading centre for the International Monetary
 						Fund.</p>
 
 					<p>Webcom E-Trade, as a revolutionist in Financial Trading Market, has come up
-						with their ForEX Magic Robot. This is an innovative, pragmatic & automatic trading software
+						with their Forex Magic Robot. This is an innovative, pragmatic & automatic trading software
 						predominantly made for international markets & currency trading. Running on MT4 trading
 						platform & is highly successful in Forex markets.It evaluates the data on 26 different
 						parameters through highly complex algorithms to dig in the most profitable currency. Hence,
