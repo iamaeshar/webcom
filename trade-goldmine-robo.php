@@ -40,7 +40,7 @@
                     <h2>Trade Goldmine Robo - Automatic Trading</h2>
                     <div class="heading-underline bg-primary"></div>
                     <br>
-                    <p>This robo works in Nse.mcx and currency market and connects with ODIN terminal automatically. It takes buy and sell trades automatically. It works on Indian Market. An automated trading system (ATS) is a computer trading program that
+                    <p>This robo works in NSE, MCX, currency market and connects with ODIN terminal automatically. It takes buy and sell trades automatically. It works on Indian Market. An automated trading system (ATS) is a computer trading program that
                         automatically submits trades to an exchange. As of the year 2010 more than 70% of the stock shares traded on the NYSE and NASDAQ are generated from automated trading systems.They are designed to trade stocks, futures and forex
                         based on a predefined set of rules which determine when to enter a trade, when to exit it and how much to invest in it.</p>
 
