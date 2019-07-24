@@ -30,7 +30,7 @@
 
 	<style>
 		#offers-sec {
-			background-color: rgba(0, 0, 0, 0.5);
+			background-color: rgba(0, 0, 0, 0.51);
 			background-blend-mode: overlay;
 		}
 	</style>
