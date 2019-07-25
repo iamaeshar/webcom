@@ -54,38 +54,30 @@
 					<img src="images/trade-goldmine-analysis-software.png" class="img-fluid">
 				</div>
 				<div class="col-lg-9 col-md-6 col-sm-12">
-					<h2>Share Trading Markets Signaling Software</h2>
+					<h2>Share Trading Markets Signalling Software</h2>
 					<div class="heading-underline bg-primary"></div>
 
 					<br>
 
 					<p>
-						NIFTY, INDIAN index for all the stocks & equities traded in the country. NIFTY
-						Trading has
-						been the most favourite among the INDIAN Traders and NIFTY over the years have
-						yield amazing
-						returns on investments.
+					NIFTY, Indian index for all the stocks & equities traded in the country. NIFTY Trading has been the most favourite among the INDIAN Traders and NIFTY over the years have yield amazing returns on investments.
 					</p>
 
-					<p>Stock Market Exchange, NSE, is the only exchange in india dealing
-						with trading of stocks & equities. millions of people in india and abroad are Trading in
-						stocks & equities through nse.
+					<p>Stock Market Exchange, NSE, is the only exchange in India dealing with trading of stocks & equities. Millions of people in India and abroad are trading in stocks & equities through NSE.
 					</p>
 
 					<p>WEBCOM E-TRADE, promoted by its founder president <b>MR. SUDHANSHU MALHOTRA</b>. MR.
-						SUDHANSHU MALHOTRA and his teams constant endeavours have been to provide unmatched quality
+						SUDHANSHU MALHOTRA and his team’s constant endeavours have been to provide unmatched quality
 						services to its clients. WEBCOM E-TRADE launched trade goldmine software, a technical
 						analysis software, after rigorous market surveys & research work by a team of trading market
-						professionals. Trade Goldmine Software has been recently coveted by a highly prestigous
+						professionals. Trade Goldmine Software has been recently coveted by a highly prestigious
 						award of best trading software for Financial Markets Trading such as NSE, MCX, indices &
-						stocks. Trade Goldmine Softrware is one of the best avalaible software of profitable trading
+						stocks. Trade Goldmine Software is one of the best available software of profitable trading
 						in NIFTY.</p>
 
-					<p>Individuals can make maximum use of the financia markets by getting the right
-						trends of the
-						trading markets to make huge profit/money. Lot of poeple have been using this
-						software for
-						last several years and have been making profits continously.</p>
+					<p>Individuals can make maximum use of the financial markets by getting the right trends of the
+						trading markets to make huge profit/money. Lot of people have been using this software for
+						last several years and have been making profits continuously.</p>
 
 					<br>
 

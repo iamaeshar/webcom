@@ -60,28 +60,28 @@
 					<br>
 
 					<p>
-						Stock Trading & NIFTY Trading is highly tecnical and needs profit training and learning
+						Stock Trading & NIFTY Trading is highly technical and needs profit training and learning
 						before an individual should jump into trading markets with real money. There is a huge
-						requirement & demand for training in financial trading markets. As they say education doesnt
+						requirement & demand for training in financial trading markets. As they say education doesn’t
 						go in vain similarly education in trading markets will always be handy for the traders to
 						make good profits out of the markets or to carve out a niche career in the industry.
 						WEBCOM E-TRADE, training division, has launched several training programs for young &
-						expeirenced, alike. The programs are focusing on people who want to be succesful and profit
-						making traders or students who are looking forward to a corporate career in Trading markets.
+						experienced, alike. The programs are focusing on people who want to be successful and profit
+						making traders or students who are looking forward to a corporate career in trading markets.
 					</p>
 
 					<p>WEBCOM E-TRADE, promoted by its founder president <b>MR. SUDHANSHU MALHOTRA</b>. MR.
-						SUDHANSHU MALHOTRA and his teams constant endeavours have been to provide unmatched quality
+						SUDHANSHU MALHOTRA and his team’s constant endeavours have been to provide unmatched quality
 						services to its clients. WEBCOM E-TRADE launched trade goldmine software, a technical
 						analysis software, after rigorous market surveys & research work by a team of trading market
-						professionals. Trade Goldmine Software has been recently coveted by a highly prestigous
+						professionals. Trade Goldmine Software has been recently coveted by a highly prestigious
 						award of best trading software for Financial Markets Trading such as NSE, MCX, indices &
-						stocks. Trade Goldmine Softrware is one of the best avalaible software of profitable trading
+						stocks. Trade Goldmine Software is one of the best available software of profitable trading
 						in NIFTY.</p>
 
-					<p>Individuals can make maximum use of the financia markets by getting the right trends of the
-						trading markets to make huge profit/money. Lot of poeple have been using this software for
-						last several years and have been making profits continously.</p>
+					<p>Individuals can make maximum use of the financial markets by getting the right trends of the
+						trading markets to make huge profit/money. Lot of people have been using this software for
+						last several years and have been making profits continuously.</p>
 
 					<br>
 

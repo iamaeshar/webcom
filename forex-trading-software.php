@@ -68,7 +68,7 @@
 					<p>Webcom E-Trade, as a revolutionist in Financial Trading Market, has come up
 						with their Forex Magic Robot. This is an innovative, pragmatic & automatic trading software
 						predominantly made for international markets & currency trading. Running on MT4 trading
-						platform & is highly successful in Forex markets.It evaluates the data on 26 different
+						platform & is highly successful in Forex markets. It evaluates the data on 26 different
 						parameters through highly complex algorithms to dig in the most profitable currency. Hence,
 						giving it the buy & sell signal to the most profitable trade. Hence, providing a speculative
 						yet secure &profitable environment for trading. This is a non-risk/secure & highly stable
@@ -77,13 +77,13 @@
 						dilemma.</p>
 
 					<p>We at Webcom E-trade, have elected for Forex Trading market as our forte for many reasons.
-						As, ForexEcommerce Trading is one of the most smoothly flowing Financial Marketin the world
+						As, Forex E-commerce Trading is one of the most smoothly flowing Financial Marketing the world
 						and its turnover of has grown significantly in recent years. The rapidly growing importance
 						of Foreign Exchange as an asset class & as an important market segment, the emergence of
-						effervescent investors& the increased trading activity of high-frequency traders are the key
+						effervescent investors & the increased trading activity of high-frequency traders are the key
 						factors driving this market towards a major boom.</p>
 
-					<p>Further, the growth of diverse selection of electronic as well as personal executionhas not
+					<p>Further, the growth of diverse selection of electronic as well as personal execution has not
 						only lowered the corresponding transaction costs &increased market liquidity but also
 						attracted greater participation from many customer segments and contrived it into an ever
 						expanding prospect of Financial Trading Markets.</p>

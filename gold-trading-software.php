@@ -67,26 +67,26 @@
 						is driven by
 						supply and demand principal of economic markets. When compared to other precious
 						metals used
-						for investment, gold’s USP(unique selling property) is that it has no default
+						for investment, gold’s USP (unique selling property) is that it has no default
 						risk and it
 						serves the most effective hedge against inflation, deflation or currency
-						devaluationacross a
+						devaluation across a
 						number of countries.</p>
 
-					<p>Cruising on the success of its other technical analysissoftwares, Webcomlater
+					<p>Cruising on the success of its other technical analysis software’s, Webcom later
 						launched
-						another wonderful technical analysis&algorithm based completely automated
+						another wonderful technical analysis algorithm based completely automated
 						trading software
 						known as Gold Magic Robot or Gold Trading Software.</p>
 
-					<p>The Gold Magic Robot is anautobot works on VPS (virtual private servers) which
+					<p>The Gold Magic Robot is an auto bot works on VPS (virtual private servers) which
 						keeps it
 						running with 100% electricity and internet backup enabling automatic trading for
 						individual
-						without interventionand works 24 hours on all trading days. This software
+						without intervention and works 24 hours on all trading days. This software
 						automatically
 						submits trade to the exchange & is a master in booking profits without any
-						loss.This
+						loss. This
 						software runs for trading Gold bullion automatically based on intense & accurate
 						algorithmic
 						study. That, Webcom has achieved over years after rigorous market survey &
@@ -97,15 +97,15 @@
 
 					<p>The Gold Magic Robot Software has been operational for last 8 years
 						and is
-						tested & trusted in the hard times in gold trading markets.The concept behind
+						tested & trusted in the hard times in gold trading markets. The concept behind
 						this software
 						is based on artificial intelligence & it takes trading to a new altitude. This
 						software is
-						effectively generating profits in the past with upto 15% Returns, with an
+						effectively generating profits in the past with up to 15% Returns, with an
 						astonishing
 						consistency.</p>
 
-					<p>Gold Magic robot has recently been honored by a highly prestigious award as the
+					<p>Gold Magic robot has recently been honoured by a highly prestigious award as the
 						best trading
 						software. Any individual can make maximum profits by getting the maximum use of
 						financial

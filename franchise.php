@@ -51,23 +51,23 @@
 			<br>
 			<div class="row">
 				<div class="col-lg-9 col-md-9 col-sm-12">
-					<p>Open a Area Franchise of Webcom Etrade and earn huge revenue on different business models
+					<p>Open an Area Franchise of Webcom E-Trade and earn huge revenue on different business models
 						offered to Area Franchise such as Software Selling,
-						Brokerage, Franchise appointment, Datafeed commissions, Stock Market Training and Course,
+						Brokerage, Franchise appointment, Data feed commissions, Stock Market Training and Course,
 						Appointing Trading Hubs.</p>
 
-					<p><strong>Space Required:</strong> 500 sq.feet - 800 sq.feet</p>
+					<p><strong>Space Required:</strong> 500 sq. Feet - 800 sq. Feet</p>
 					<p><strong>Min. Investment:</strong> <a href="contact-us">Contact us</a></p>
 
 					<br>
 
-					<h4>Benefits :</h4>
+					<h4>Benefits:</h4>
 					<ul class="list-group">
 						<li class="list-group-item">You will get some inventory Free of cost to recover your investment
 						</li>
 						<li class="list-group-item">You will further increase your network through appointing Trading
 							Hubs,
-							Resellor/Distributors.</li>
+							Reseller/Distributors</li>
 						<li class="list-group-item">Good Profit of margin</li>
 						<li class="list-group-item">Extra Revenue from Training Program based on Forex and Stock
 							Markets.</li>
@@ -77,26 +77,26 @@
 
 					<br>
 
-					<h2> Resellor/ Distributor Franchise</h2>
+					<h2> Reseller/ Distributor Franchise</h2>
 					<div class="heading-underline bg-primary"></div>
 					<br>
-					<p>Low Investment and High Profit based business Model. Become a Reseller of Webcom Etrade and
+					<p>Low Investment and High Profit based business Model. Become a Reseller of Webcom E-Trade and
 						re-sell our product and get up good margin.</p>
 
-					<p><strong>Space Required:</strong> 100 Sq.Feet.</p>
+					<p><strong>Space Required:</strong> 100 Sq. Feet.</p>
 					<p><strong>Min. Investment:</strong> Contact us</p>
 
 					<br>
 
-					<h4>Benefits :</h4>
+					<h4>Benefits:</h4>
 					<ul class="list-group">
 						<li class="list-group-item">You will get Free inventory of our products</li>
-						<li class="list-group-item">You will appointed authorised Distributor/Resellor</li>
-						<li class="list-group-item">You will also be appointed as a Introducing Broker for Forex Market.
+						<li class="list-group-item">You will appointed authorised Distributor/Reseller</li>
+						<li class="list-group-item">You will also be appointed as an Introducing Broker for Forex Market.
 						</li>
 						<li class="list-group-item">You will get one software FREE for your personal use.</li>
 						<li class="list-group-item">6 Months Data-feed FREE for your personal use.</li>
-						<li class="list-group-item">Good Profit of margin for Resellor.</li>
+						<li class="list-group-item">Good Profit of margin for Reseller.</li>
 					</ul>
 
 					<br>
@@ -105,9 +105,9 @@
 					<div class="heading-underline bg-primary"></div>
 					<br>
 					<p>High Investment and High Profit based business Model. Become a Master Franchise of Webcom
-						Etrade and re-sell our product and get up 70% margin.</p>
+						E-Trade and re-sell our product and get up 70% margin.</p>
 
-					<p><strong>Space Required:</strong> 500-700 Sq.Feet.</p>
+					<p><strong>Space Required:</strong> 500-700 Sq. Feet.</p>
 					<p><strong>Min. Investment:</strong> Contact us</p>
 
 					<br>
@@ -115,9 +115,9 @@
 					<h4>Benefits :</h4>
 					<ul class="list-group">
 						<li class="list-group-item">You will get Free inventory of our products</li>
-						<li class="list-group-item">You will appointed authorised Distributor/Resellor/ACP in the
+						<li class="list-group-item">You will appointed authorised Distributor/Reseller/ACP in the
 							state/city</li>
-						<li class="list-group-item">You will also be appointed as a Introducing Broker for Forex Market.
+						<li class="list-group-item">You will also be appointed as an Introducing Broker for Forex Market.
 						</li>
 						<li class="list-group-item">You will get one software FREE for your personal use.</li>
 						<li class="list-group-item">6 Months Data-feed FREE for your personal use.</li>

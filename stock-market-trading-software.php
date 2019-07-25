@@ -61,21 +61,21 @@
 					<p>
 						Stock Trading Software, Trade Goldmine Software - A technical analysis tool which correctly
 						identifies the trend of the stock market and helps the traders to make profits out of stock
-						trading. stock trading is highly technical and people can make good money & profits if they
+						trading. Stock trading is highly technical and people can make good money & profits if they
 						understand the trends in advance.</p>
 
 					<p>WEBCOM E-TRADE, promoted by its founder president <b>MR. SUDHANSHU MALHOTRA</b>. MR.
-						SUDHANSHU MALHOTRA and his teams constant endeavours have been to provide unmatched quality
+						SUDHANSHU MALHOTRA and his team's constant endeavours have been to provide unmatched quality
 						services to its clients. WEBCOM E-TRADE launched trade goldmine software, a technical
 						analysis software, after rigorous market surveys & research work by a team of trading market
-						professionals. Trade Goldmine Software has been recently coveted by a highly prestigous
+						professionals. Trade Goldmine Software has been recently coveted by a highly prestigious
 						award of best trading software for Financial Markets Trading such as NSE, MCX, indices &
-						stocks. Trade Goldmine Softrware is one of the best avalaible software of profitable trading
+						stocks. Trade Goldmine Software is one of the best available software of profitable trading
 						in NIFTY.</p>
 
-					<p>Individuals can make maximum use of the financia markets by getting the right trends of the
-						trading markets to make huge profit/money. Lot of poeple have been using this software for
-						last several years and have been making profits continously.</p>
+					<p>Individuals can make maximum use of the financial markets by getting the right trends of the
+						trading markets to make huge profit/money. Lot of people have been using this software for
+						last several years and have been making profits continuously.</p>
 
 					<br>
 

@@ -287,10 +287,7 @@
                             Customer Service
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom Etrade take cares of complete customare care 24x7 on dedicated
-                                chat, emails and through vps servers. We ensure that our customers should be completely
-                                satisfied while trading or while using the software. We give complete
-                                training on our software with documentation in CD.</p>
+                            <p class="card-text">Webcom E-Trade take cares of complete customer care 24x7 on dedicated chat, emails and through VPS servers. We ensure that our customers should be completely satisfied while trading or while using the software. We give complete training on our software with documentation in CD.</p>
                         </div>
                     </div>
                 </div>
@@ -300,9 +297,7 @@
                             Award Winning
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom Etrade products such as Trade Goldmine technical analysis is
-                                awarded several times as a best software in india by the prestigious bodies such as
-                                London stock of exchange.
+                            <p class="card-text">Webcom E-Trade products such as Trade Goldmine technical analysis is awarded several times as a best software in India by the prestigious bodies such as London stock of exchange.
                                 <br>
                                 <b>Chetan Bhagat</b>
                                 <br> Dr.Kiran Bedi etc.</p>
@@ -315,9 +310,7 @@
                             Global Reach
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom Etrade customere can reach them globally in India, London,
-                                Dubai, USA, Sri Lanka, Nepal through our dedicated franchisee network. Webcom Etrade is
-                                having more than 100 branches worldwide.</p>
+                            <p class="card-text">Webcom E-Trade customer can reach them globally in India, London, Dubai, USA, Sri Lanka, and Nepal through our dedicated franchisee network. Webcom E-Trade is having more than 100 branches worldwide.</p>
                         </div>
                     </div>
                 </div>
@@ -327,8 +320,7 @@
                             Availability
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom Etrade customere care and technical Fax: is available everythere
-                                globally. We intend to provide best quality material and software Fax: all over India.
+                            <p class="card-text">Webcom E-Trade customer care and technical Fax: is available everywhere globally. We intend to provide best quality material and software Fax: all over India.
                             </p>
                         </div>
                     </div>

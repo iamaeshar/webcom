@@ -59,12 +59,12 @@
 						<p><strong>Webcom Forex Trading Institute</strong> is a subsidiary of
 							<strong>Webcom E-Trade</strong> & focus mainly on delivering training on Forex Trading
 							Markets to make quick money. Our training is highly practical and focus mainly on Forex
-							Trading Markets & International Trading Markets to make quick money. Webcome Traders
+							Trading Markets & International Trading Markets to make quick money. Webcom Traders
 							provides forex tips, forex buy sell signals, Nifty buy sell signals, Gold silver buy sell
 							tips and Gold silver buy sell signals.</p>
 
 						<p>World class education coupled with training on powerful & user-friendly
-							state-of-the-art <strong>Trade GoldMine Software</strong> are just the right blend to make
+							state-of-the-art <strong>Trade Goldmine Software</strong> are just the right blend to make
 							big profits out of the trading markets. Students shall be trained by industry experienced
 							trainers on market trends and patterns in the marketplace. Students also get to learn
 							technical and fundamental analytic strategies required for making quick business decisions.
@@ -75,7 +75,7 @@
 						<p>Webcom Forex Trading School also focus on imparting quality training on
 							International Market, Stock, Index & Commodities with the help of state-of-the-art
 							<strong>Trade
-								GoldMine Software</strong>, latest curriculum & senior professors.</p>
+								Goldmine Software</strong>, latest curriculum & senior professors.</p>
 					</div>
 				</div>
 			</div>
