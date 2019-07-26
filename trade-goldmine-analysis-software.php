@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>Gold Silver Trading - Gold Silver Trading Software in India</title>
-    <meta name="description" content="No 1 gold trading and silver trading software at competitive prices in India." />
-    <meta name="keywords" content="nifty trading software" />
+    <title>Gold Silver Trading | Gold Silver Trading Analysis Software in India</title>
+    <meta name="description" content="Webcom etrade offers no. 1 gold trading and silver trading software at competitive prices in India. With the best services of Share Trading Software in India." />
+    <meta name="keywords" content="trade goldmine software, trade goldmine analysis software, currency trading software, trading software India , best trading software in India" />
     <meta name="Language" content="English">
     <meta name="Publisher" content=" webcometrade ">
     <meta name="Revisit-After" content="7 Days">

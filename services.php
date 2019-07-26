@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Stock Trading Institute - Stock Share Trading Institute in Delhi NCR India</title>
+	<title>Stock Trading Institute |Stock Share Trading Institute in Delhi NCR India</title>
 	<meta name="description"
-		content="Stock Share Trading Institute in India offers Stock Share Trading training in Delhi NCR India. Ranked Number 1 Stock Share Trading Institute in Delhi NCR." />
+		content="Stock Share Trading Institute in India offers Stock share trading training in Delhi NCR India. Ranked No. 1 Stock Share Trading Institute in Delhi NCR." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in India, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="stock market training, stock market institute, stock market training institute, stock market course, best institute for stock market courses in delhi, forex trading training, stock market training institute in delhi" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />
@@ -41,7 +41,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/service-stock-share-trading-training.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="services-sec" class="shadow">

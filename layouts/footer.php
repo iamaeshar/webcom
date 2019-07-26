@@ -1,26 +1,62 @@
 <footer class="pt-4 pb-4 bg-primary">
     <div class="container-fluid">
         <div class="row">
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in India - All Rights Reserved
+            <div class="col-lg-6 col-md-6 col-sm-12 mb-3">
+                Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in India -
+                All Rights Reserved
             </div>
             <div class="col-lg-6 col-md-6 col-sm-12">
-                <a class="text-white mr-2 d-inline-block" href="./">HOME</a>
-                <a class="text-white mr-2 d-inline-block" href="./about-us.php">ABOUT US</a>
-                <a class="text-white mr-2 d-inline-block" href="http://www.webcomtechnologiesusa.com/payment.php" target="_blank">BUY</a>
-                <a class="text-white mr-2 d-inline-block" href="./contact-us.php">CONTACT US</a>
-                <br> Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech Pvt Ltd.</a>
+                <a class="text-white mr-2 d-inline-block" href="/">HOME</a>
+                <a class="text-white mr-2 d-inline-block" href="about-us.php">ABOUT US</a>
+                <a class="text-white mr-2 d-inline-block" href="http://www.webcomtechnologiesusa.com/payment.php"
+                    target="_blank">BUY</a>
+                <a class="text-white mr-2 d-inline-block" href="contact-us.php">CONTACT US</a>
+                <a class="text-white mr-2 d-inline-block" href="sitemap.html">SITEMAP</a>
+                <br>
+                <br>
+                Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech Pvt
+                    Ltd.</a>
             </div>
         </div>
     </div>
 </footer>
 <!-- Jquery -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+    crossorigin="anonymous"></script>
 
 <!-- Start of BS4 JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+    crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+    crossorigin="anonymous"></script>
 <!-- End of BS4 JS -->
+
+<script>
+    $(document).ready(function () {
+        var url = window.location.pathname;
+        var link = url.split("/").pop();
+        console.log(link);
+        if (link == '') {
+            $('#home').addClass('active');
+        } else {
+            $('.nav-item').each(function () {
+                if ($(this).find('a').attr('href') == link) {
+                    $(this).addClass('active');
+                }
+            });
+
+            $('.dropdown-item').each(function () {
+                if ($(this).attr('href') == link) {
+                    $(this).closest('.nav-item').addClass('active');
+                    $(this).addClass('active');
+                }
+            });
+        }
+    })
+</script>
 
 <!-- Google Analytics -->
 <!-- <script>

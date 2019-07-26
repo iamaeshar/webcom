@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-    <title>Online Share Trading Software, Best Share Trading Software in India</title>
+    <title>Online Share Trading Software |Best Share Trading Software in India</title>
     <meta name="description"
-        content="Best Share Trading Software in India - Offers Online Share Trading Software which includes Nifty, MCX, Stock Share, Gold and silver trading. No 1 Share Trading Software in India." />
+        content="Webcom etrade offers the best Share Trading Software in India. We offer Online Share Trading Software which includes Nifty, MCX, Stock Share, Gold, and silver trading. No. 1 Share Trading Software in India." />
     <meta name="keywords"
-        content="gold trading software, forex trading software, share trading software, best signaling software in india" />
+        content="share trading software, forex trading training, webcom, online share trading, best share trading software in India, share trading school, online forex trading in India" />
 
     <meta name="Robots" content="INDEX, FOLLOW">
 
@@ -39,6 +39,32 @@
             left: 2rem;
             display: flex;
             align-items: center;
+        }
+
+        @media(max-width: 500px) {
+            .banner-text-container h1 {
+                font-size: 1rem;
+            }
+
+            .banner-text-container h3 {
+                font-size: 0.8rem;
+            }
+        }
+
+        @media(max-width: 768px) {
+            .banner-text-container h1 {
+                font-size: 1.5rem;
+            }
+
+            .banner-text-container h3 {
+                font-size: 1rem;
+            }
+        }
+
+        @media(min-width: 768px) {
+            .banner-text-container h3 {
+                margin-bottom: 1rem;
+            }
         }
 
         /* Offer Section */
@@ -86,7 +112,6 @@
             <div class="banner-text">
                 <h1 class="text-white font-weight-bold">BECOME A FRANCHISE</h1>
                 <h3 class="text-white">Be An Area Franchise Of Webcom <br>Etrade And Earn Huge Revenue</h3>
-                <br>
                 <button class="btn btn-default border text-white">Learn more</button> &nbsp;
                 <a href="http://www.webcomtechnologiesusa.com/payment.php" class="btn btn-primary" target="_blank">Buy
                     Online <i class="fas fa-shopping-cart"></i></a>
@@ -169,6 +194,12 @@
                                             <td>1.24400</td>
                                             <td>1.24428</td>
                                             <td><span class="text-danger">-0.24%</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td>WTI Oil</td>
+                                            <td>56.188</td>
+                                            <td>56.222</td>
+                                            <td><span class="text-danger">-0.11%</span></td>
                                         </tr>
                                         <tr>
                                             <td>WTI Oil</td>
@@ -287,7 +318,10 @@
                             Customer Service
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom E-Trade take cares of complete customer care 24x7 on dedicated chat, emails and through VPS servers. We ensure that our customers should be completely satisfied while trading or while using the software. We give complete training on our software with documentation in CD.</p>
+                            <p class="card-text">Webcom E-Trade take cares of complete customer care 24x7 on dedicated
+                                chat, emails and through VPS servers. We ensure that our customers should be completely
+                                satisfied while trading or while using the software. We give complete training on our
+                                software with documentation in CD.</p>
                         </div>
                     </div>
                 </div>
@@ -297,7 +331,9 @@
                             Award Winning
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom E-Trade products such as Trade Goldmine technical analysis is awarded several times as a best software in India by the prestigious bodies such as London stock of exchange.
+                            <p class="card-text">Webcom E-Trade products such as Trade Goldmine technical analysis is
+                                awarded several times as a best software in India by the prestigious bodies such as
+                                London stock of exchange.
                                 <br>
                                 <b>Chetan Bhagat</b>
                                 <br> Dr.Kiran Bedi etc.</p>
@@ -310,7 +346,9 @@
                             Global Reach
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom E-Trade customer can reach them globally in India, London, Dubai, USA, Sri Lanka, and Nepal through our dedicated franchisee network. Webcom E-Trade is having more than 100 branches worldwide.</p>
+                            <p class="card-text">Webcom E-Trade customer can reach them globally in India, London,
+                                Dubai, USA, Sri Lanka, and Nepal through our dedicated franchisee network. Webcom
+                                E-Trade is having more than 100 branches worldwide.</p>
                         </div>
                     </div>
                 </div>
@@ -320,7 +358,8 @@
                             Availability
                         </div>
                         <div class="card-body">
-                            <p class="card-text">Webcom E-Trade customer care and technical Fax: is available everywhere globally. We intend to provide best quality material and software Fax: all over India.
+                            <p class="card-text">Webcom E-Trade customer care and technical Fax: is available everywhere
+                                globally. We intend to provide best quality material and software Fax: all over India.
                             </p>
                         </div>
                     </div>
@@ -385,14 +424,17 @@
                                 <h4 class="card-title">Arif Jamal</h4>
                                 <div class="heading-underline bg-primary"></div>
                                 <br>
-                                <p class="card-text">E-Trade commodity market software provides excellent Nifty Tips, MCX Trading tips and Nifty buy and sell signals it is also useful for forex buy sell signals</p>
+                                <p class="card-text">E-Trade commodity market software provides excellent Nifty Tips,
+                                    MCX Trading tips and Nifty buy and sell signals it is also useful for forex buy sell
+                                    signals</p>
                             </div>
 
                             <div class="card-body">
                                 <h4 class="card-title">Aijaz ahmed</h4>
                                 <div class="heading-underline bg-primary"></div>
                                 <br>
-                                <p class="card-text">Gold Trading Robo Is the best software.The software provide by Webcometrade only.</p>
+                                <p class="card-text">Gold Trading Robo Is the best software.The software provide by
+                                    Webcometrade only.</p>
                             </div>
                         </div>
                     </div>

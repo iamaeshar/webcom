@@ -1,6 +1,6 @@
 <div class="nav-container shadow">
     <nav class="navbar navbar-expand-lg container-fluid">
-        <a href="./">
+        <a href="/">
             <img src="images/logo.png" alt="webcom logo" height="50px">
         </a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
@@ -10,11 +10,11 @@
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
-                <li class="nav-item active">
-                    <a class="nav-link" href="./">HOME</a>
+                <li class="nav-item" id="home">
+                    <a class="nav-link" href="/">HOME</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="./about-us">ABOUT US</a>
+                    <a class="nav-link" href="about-us">ABOUT US</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="productsDropdown" role="button"
@@ -22,13 +22,13 @@
                         OUR PRODUCT
                     </a>
                     <div class="dropdown-menu shadow border-0" aria-labelledby="productsDropdown">
-                        <a href="./trade-goldmine-analysis-software" class="dropdown-item">TRADE GOLDMINE ANALYSIS
+                        <a href="trade-goldmine-analysis-software" class="dropdown-item">TRADE GOLDMINE ANALYSIS
                             SOFTWARE</a>
-                        <a href="./trade-goldmine-robo" class="dropdown-item">TRADE GOLDMINE ROBO</a>
-                        <a href="./gold-magic-robo" class="dropdown-item">GOLD MAGIC ROBO</a>
-                        <a href="./forex-trading-software" class="dropdown-item">FOREX-TRADING
+                        <a href="trade-goldmine-robo" class="dropdown-item">TRADE GOLDMINE ROBO</a>
+                        <a href="gold-magic-robo" class="dropdown-item">GOLD MAGIC ROBO</a>
+                        <a href="forex-trading-software" class="dropdown-item">FOREX-TRADING
                             SOFTWARE</a>
-                        <a href="./gold-trading-software" class="dropdown-item">GOLD-TRADING
+                        <a href="gold-trading-software" class="dropdown-item">GOLD-TRADING
                             SOFTWARE</a>
                     </div>
                 </li>

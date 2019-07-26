@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Forex Trading - Forex Trading Software,Online Forex Trading Software in India</title>
+	<title>Forex Trading - Forex Trading Software |Online Forex Trading Software in India </title>
 	<meta name="description"
-		content="Forex Trading Software Company – Award winning online Forex trading software company. We ranked number 1 in online trading software companies." />
+		content="Forex Trading Software Company – Award winning online forex trading software company. We are ranked no. 1 in online trading software companies." />
 	<meta name="keywords"
-		content="gold trading software, Forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="forex trading, forex trading software, forex trading in india, learn forex trading, online forex trading, online forex trading company, forex software, forex signal software, automated forex trading software" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />

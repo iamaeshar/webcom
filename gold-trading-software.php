@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Gold Silver Trading Software,Gold Trading,Silver Trading Software in India</title>
+	<title>Gold Silver Trading Software |Gold trading |Silver Trading Software in India</title>
 	<meta name="description"
-		content="Gold Silver Trading Software company provides best automated gold trading software and silver trading software in India." />
+		content="Wecom Etrade is a Gold Silver Trading Software Company provides best automated gold trading software and silver trading software in India." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="gold trading software, gold trading, silver trading software, gold trading tips, gold trading online, gold trading signals, gold trade" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />

@@ -2,9 +2,9 @@
 <html lang="en">
 
 <head>
-    <title>MCX Trading Software,Nifty Trading Software,Algorithmic Nifty & MCX Trading Software in India</title>
-    <meta name="description" content="No 1 mcx trading software, nifty trading software, algorithmic nifty and mcx trading software in India." />
-    <meta name="keywords" content="gold trading software, forex trading in India, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+    <title>MCX Trading Software | Trade Goldmine Robo | Algorithmic Nifty </title>
+    <meta name="description" content="Webcom Etrade offers no. 1 mcx trading software, nifty trading software, algorithmic nifty and mcx trading software about trade goldmine robo in India." />
+    <meta name="keywords" content="algo trading, trade goldmine robo, algo trading software, robo trading software, automated trading software for Indian markets, algorithmic trading software India, mcx trading software, backtesting software" />
     <meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
     <meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
     <meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />

@@ -3,11 +3,11 @@
 
 <head>
 
-	<title>Automated Stock Trading Software,Online Stock Trading Software in India</title>
+	<title>Automated Stock Trading Software |Online Stock Trading Software in India</title>
 	<meta name="description"
-		content="Automated Stock Trading Software Company ranked number 1 position for providing best Online Stock Trading Software in India. Expert in Stock Trading Software." />
+		content="Automated Stock Trading Software Company ranked no. 1 position for providing best Online Stock Trading Software in India. Expert in Stock Trading Software." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="stock market software, stock trading software, trading software,  best technical analysis software for indian stock market, stock market analysis software, software for stock market, best trading software in india" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />
@@ -34,7 +34,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/stock-market-trading-software.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="stock-market-trading-software" class="pt-5 pb-5">

@@ -2,10 +2,10 @@
 <html lang="en">
 
 <head>
-    <title>Robot Trading,Robot Share Trading Software,Auto Robot Share Trading Software</title>
+    <title>Robot Trading, Robot Share Trading Software, Auto Robot Share Trading Software</title>
     <meta name="description"
         content="Robot Share Trading Software Company â€“ No 1 Online Robot Share Trading Software company in New Delhi India. Focus mainly on delivering training on Forex Trading Markets to make quick money." />
-    <meta name="keywords" content="profits in nifty trading, profits in mcx trading" />
+    <meta name="keywords" content="about webcom, Webcom Mission, Webcom Vision, webcom forex trading school, webcom training" />
     <meta name="Publisher" content=" webcometrade ">
     <meta name="Robots" content="INDEX, FOLLOW">
     <meta name="YahooSeeker" content="INDEX, FOLLOW">

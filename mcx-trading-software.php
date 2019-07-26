@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>MCX Trading - MCX Trading Software,Best MCX Trading Software in India</title>
+	<title>MCX Trading Software | Best MCX Trading Software in India</title>
 	<meta name="description"
 		content="MCX Trading Software – Provides best MCX Trading Software in New Delhi. Award winning company for best MCX Trading Software in India." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="mcx trading software, robot trading software for mcx, mcx trading, mcx trading strategy, mcx trading tips, mcx gold options trading, mcx tips software" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />
@@ -51,7 +51,7 @@
 
 			<div class="row">
 				<div class="col-lg-3 col-md-6 col-sm-12">
-					<img src="images/trade-goldmine-analysis-software.png" class="img-fluid">
+					<img src="images/banners/mcx-trading-software.jpg" class="img-fluid">
 				</div>
 				<div class="col-lg-9 col-md-6 col-sm-12">
 

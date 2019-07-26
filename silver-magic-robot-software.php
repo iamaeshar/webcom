@@ -17,7 +17,7 @@
     <?php include('layouts/navbar.php'); ?>
 
     <section id="banner-sec" class="shadow-sm">
-        <img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+        <img src="images/banners/silver-magic-robot-software.jpg" alt="webcome banner" class="img-fluid">
     </section>
 
     <section class="pt-5 pb-5">

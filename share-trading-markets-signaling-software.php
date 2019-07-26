@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Share Signaling Software,Signaling Software For Share Trading Markets India</title>
+	<title>Signalling Software for Share Trading Markets India</title>
 	<meta name="description"
-		content="Share Trading Signaling Software Company – We offer Signaling Software For Share Trading Markets in India. We are an award winning company in India." />
+		content="Share Trading Signaling Software Company – We offer Signaling Software for Share Trading Markets in India. We are an award winning company in India." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="nifty buy sell signal software, trading signal software, buy sell signal software, auto buy sell signal software, share signaling software, share market software, best signaling software" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />

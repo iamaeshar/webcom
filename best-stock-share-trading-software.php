@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Stock Share,Best Stock Share Trading Software,Stock Share Charting Software in India</title>
+	<title>Best Stock Share Trading Software |Stock Share Charting Software in India</title>
 	<meta name="description"
-		content="Best Stock Share Charting Software Company in India – Number 1 Stock Share Trading Software company in India. Experts in Stocks, Share, Gold, Silver, Forex etc." />
+		content="Best Stock Share Charting Software Company in India – No. 1 Stock Share Trading Software Company in India. We are experts in Stocks, Share, Gold, Silver, Forex etc." />
 	<meta name="keywords"
-		content="gold trading software, forex trading in india, share trading software, nifty trading software, profits in nifty trading, profits in mcx  trading, best signaling software" />
+		content="share trading software, online share trading, share market software, share market prediction software, share market analysis software, share market trading software, online share market software" />
 	<meta name="DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />

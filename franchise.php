@@ -2,11 +2,11 @@
 <html lang="en">
 
 <head>
-	<title>Phone App For Share Trading, Signaling Software For Share Trading Markets</title>
+	<title>Phone App for Share Trading | Signalling Software for Share Trading Markets</title>
 	<meta name="description"
-		content="Get phone app for share trading and signaling software for share trading markets in India." />
+		content="Webcom E-trade offers the best phone app for share trading and signaling software for share trading markets in India. We are award winning company in India. " />
 	<meta name="keywords"
-		content="Stock Training Institute in Delhi NCR, Stock Trading Institute, Signaling Software For Trading Markets, Auto Robot Trading, Gold Silver  Trading, MCX Trading, Investment in Stocks, Nifty Trading " />
+		content="Webcom Franchise, Webcom E Trade" />
 	<meta name=" DC.title" content="Gold, Forex, Share, nifty, mcx trading & Signaling Trading software in India" />
 	<meta name="geo.placename" content="C-23, South Extension, Part - I, Near D Block Market, New Delhi-110049" />
 	<meta name="geo.placename" content="New Delhi, New Delhi 110049, India" />
