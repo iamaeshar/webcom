@@ -34,7 +34,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/Forex-trading-software.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/forex-trading-software.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="trade-goldmine-robo" class="pt-5 pb-5">

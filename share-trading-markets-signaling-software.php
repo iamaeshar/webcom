@@ -34,7 +34,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/share-trading-markets-signalling-software.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="trade-goldmine-robo" class="pt-5 pb-5">
@@ -60,10 +60,13 @@
 					<br>
 
 					<p>
-					NIFTY, Indian index for all the stocks & equities traded in the country. NIFTY Trading has been the most favourite among the INDIAN Traders and NIFTY over the years have yield amazing returns on investments.
+						NIFTY, Indian index for all the stocks & equities traded in the country. NIFTY Trading has been
+						the most favourite among the INDIAN Traders and NIFTY over the years have yield amazing returns
+						on investments.
 					</p>
 
-					<p>Stock Market Exchange, NSE, is the only exchange in India dealing with trading of stocks & equities. Millions of people in India and abroad are trading in stocks & equities through NSE.
+					<p>Stock Market Exchange, NSE, is the only exchange in India dealing with trading of stocks &
+						equities. Millions of people in India and abroad are trading in stocks & equities through NSE.
 					</p>
 
 					<p>WEBCOM E-TRADE, promoted by its founder president <b>MR. SUDHANSHU MALHOTRA</b>. MR.

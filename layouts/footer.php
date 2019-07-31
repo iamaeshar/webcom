@@ -1,29 +1,39 @@
-<footer class="pt-4 pb-4 bg-primary">
+<footer class="pt-4 pb-2 bg-primary">
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 mb-3">
-                Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in India -
-                All Rights Reserved
+                <div>
+                    <a class="text-white mr-2" href="https://www.facebook.com/webcomTrade/"><i class="fa-2x fab fa-facebook-square"></i></a>
+                    <a class="text-white mr-2" href="https://twitter.com/etrade_webcom"><i class="fa-2x fab fa-twitter-square"></i></a>
+                    <a class="text-white mr-2" href="https://in.linkedin.com/company/webcom-etrade"><i class="fa-2x fab fa-linkedin"></i></a>
+                </div>
+                <br>
+                <p>
+                    Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in India -
+                    All Rights Reserved
+                </p>
             </div>
-            <div class="col-lg-6 col-md-6 col-sm-12">
-                <a class="text-white mr-2 d-inline-block" href="/">HOME</a>
-                <a class="text-white mr-2 d-inline-block" href="about-us.php">ABOUT US</a>
-                <a class="text-white mr-2 d-inline-block" href="http://www.webcomtechnologiesusa.com/payment.php"
-                    target="_blank">BUY</a>
-                <a class="text-white mr-2 d-inline-block" href="contact-us.php">CONTACT US</a>
-                <a class="text-white mr-2 d-inline-block" href="sitemap.html">SITEMAP</a>
+            <div class="col-lg-6 col-md-6 col-sm-12 mb-3">
+                <div>
+                    <a class="text-white mr-2 d-inline-block" href="/">HOME</a>
+                    <a class="text-white mr-2 d-inline-block" href="about-us.php">ABOUT US</a>
+                    <a class="text-white mr-2 d-inline-block" href="http://www.webcomtechnologiesusa.com/payment.php"
+                        target="_blank">BUY</a>
+                    <a class="text-white mr-2 d-inline-block" href="contact-us.php">CONTACT US</a>
+                    <a class="text-white mr-2 d-inline-block" href="sitemap.html">SITEMAP</a>
+                </div>
                 <br>
-                <br>
-                Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech Pvt
-                    Ltd.</a>
+                <p class="mt-2">
+                    Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech Pvt
+                        Ltd.</a>
+                </p>
             </div>
         </div>
     </div>
 </footer>
-<!-- Jquery -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
-    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
-    crossorigin="anonymous"></script>
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
 <!-- Start of BS4 JS -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
@@ -38,7 +48,6 @@
     $(document).ready(function () {
         var url = window.location.pathname;
         var link = url.split("/").pop();
-        console.log(link);
         if (link == '') {
             $('#home').addClass('active');
         } else {

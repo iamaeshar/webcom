@@ -41,7 +41,7 @@
             align-items: center;
         }
 
-        @media(max-width: 500px) {
+        @media(max-width: 576px) {
             .banner-text-container h1 {
                 font-size: 1rem;
             }
@@ -49,9 +49,14 @@
             .banner-text-container h3 {
                 font-size: 0.8rem;
             }
+
+            .banner-text-container .btn {
+                padding: .225rem .75rem;
+                font-size: 0.75rem;
+            }
         }
 
-        @media(max-width: 768px) {
+        @media(min-width: 576px) and (max-width: 768px) {
             .banner-text-container h1 {
                 font-size: 1.5rem;
             }
@@ -65,6 +70,10 @@
             .banner-text-container h3 {
                 margin-bottom: 1rem;
             }
+        }
+
+        .owl-item {
+            overflow-y: auto;
         }
 
         /* Offer Section */
@@ -105,7 +114,6 @@
 <body>
     <?php include('layouts/header.php'); ?>
     <?php include('layouts/navbar.php'); ?>
-
     <section id="banner-sec" class="shadow-sm">
         <img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
         <div class="banner-text-container">
@@ -122,7 +130,7 @@
     <section id="about-us" class="pt-5 pb-5">
         <div class="container-fluid">
             <div class="row">
-                <div class="col-lg-8 col-md-6 col-sm-12">
+                <div class="col-lg-7 col-md-6 col-sm-12">
                     <h2 class="font-weight-bold">WHO WE ARE ?</h2>
                     <div class="heading-underline bg-primary"></div>
                     <br>
@@ -134,8 +142,8 @@
                     <p>Webcome Traders provides auto robot share trading software, forex tips, forex buy sell signals,
                         Nifty buy sell signals, Gold silver buy sell tips and Gold silver buy sell signals.</p>
                 </div>
-                <div class="col-lg-4 col-md-6 col-sm-12">
-                    <div class="card shadow h-100">
+                <div class="col-lg-5 col-md-6 col-sm-12">
+                    <div class="card shadow">
                         <div class="card-header bg-primary">Market Snapshot</div>
                         <div class="owl-carousel">
                             <div class="card-body p-0">
@@ -377,18 +385,18 @@
                         width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <div class="pt-5 pb-5">
+                    <div class="pt-5 pb-4">
                         <h2 class="font-weight-bold">CONTACT WITH US</h2>
                         <div class="bg-secondary heading-underline"></div>
                         <br>
-                        <form id="contact-form" action="#" method="post">
+                        <form id="contact-form" onsubmit="return submitContact(event)" method="post">
                             <div class="form-group">
                                 <input class="form-control" type="text" name="name" id="contact-us-name"
                                     placeholder="Full Name" required="">
                             </div>
                             <div class="form-group">
                                 <input class="form-control" type="email" name="email" id="contact-us-mail"
-                                    placeholder="mail@sa.com" placeholder="Enter your email" required="">
+                                    placeholder="mail@example.com" placeholder="Enter your email" required="">
                             </div>
                             <div class="form-group">
                                 <input class="form-control" type="text" name="mobile" id="contact-us-phone"
@@ -404,8 +412,12 @@
                                     Send Your Message
                                 </button>
                                 <div class="clearfix"></div>
+                                <div class="bg-primary w-100 text-center loader d-none">
+                                    <div class="spinner-border" role="status">
+                                        <span class="sr-only mt-2 d-inline-block"></span>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="form_loader"></div>
                         </form>
                     </div>
                 </div>
@@ -451,14 +463,14 @@
                             </p>
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-lg-6 col-md-12">
+                                    <div class="col-lg-6 col-md-12 mb-3">
                                         <a href="https://play.google.com/store/apps/details?id=com.webcom&hl=en_IN">
-                                            <img src="images/android_badge.png" class="img-fluid" width="250px">
+                                            <img src="images/google-play.jpg" class="img-fluid" width="250px">
                                         </a>
                                     </div>
-                                    <div class="col-lg-6 col-md-12">
+                                    <div class="col-lg-6 col-md-12 mb-3">
                                         <a href="https://apps.apple.com/in/app/webcom-e-trade/id1338688147">
-                                            <img src="images/ios_app_store.png" class="img-fluid" width="250px">
+                                            <img src="images/ios-app-store.jpg" class="img-fluid" width="250px">
                                         </a>
                                     </div>
                                 </div>
@@ -480,19 +492,66 @@
 
     <script>
         $(document).ready(function () {
-            $('.owl-carousel').owlCarousel({
-                loop: true,
-                margin: 10,
-                responsiveClass: true,
-                nav: true,
-                navText: ["<i class='fas fa-chevron-left'></i>", "<i class='fas fa-chevron-right'></i>"],
-                dots: false,
-                autoHeight: true,
-                autoplay: true,
-                autoplayHoverPause: true,
-                items: 1
-            });
+            if ($(window).width() < 576) {
+                $('.owl-carousel').owlCarousel({
+                    loop: true,
+                    autoplay: false,
+                    mouseDrag: false,
+                    touchDrag: false,
+                    margin: 10,
+                    responsiveClass: true,
+                    nav: true,
+                    navText: ["<i class='fas fa-chevron-left'></i>", "<i class='fas fa-chevron-right'></i>"],
+                    dots: false,
+                    autoHeight: true,
+                    autoplayHoverPause: true,
+                    items: 1
+                });
+            } else {
+                $('.owl-carousel').owlCarousel({
+                    loop: true,
+                    margin: 10,
+                    responsiveClass: true,
+                    nav: true,
+                    navText: ["<i class='fas fa-chevron-left'></i>", "<i class='fas fa-chevron-right'></i>"],
+                    dots: false,
+                    autoHeight: true,
+                    autoplay: true,
+                    autoplayHoverPause: true,
+                    items: 1
+                });
+            }
         });
+
+        function submitContact(e) {
+            e.preventDefault();
+            $.ajax({
+                'url': 'php/submit-contact.php',
+                'type': 'post',
+                'data': {
+                    name: $('#contact-us-name').val(),
+                    email: $('#contact-us-mail').val(),
+                    phone: $('#contact-us-phone').val(),
+                    message: $('#contact-us-message').val()
+                },
+                beforeSend: function () {
+                    $('#contact-us-submit').addClass('d-none');
+                    $('.loader').removeClass('d-none');
+                },
+                success: function (data) {
+                    var obj = JSON.parse(data);
+                    if (obj.status == 'success') {
+                        alert(obj.message);
+                    } else {
+                        alert(obj.message);
+                    }
+                },
+                complete: function () {
+                    $('#contact-us-submit').removeClass('d-none');
+                    $('.loader').addClass('d-none');
+                }
+            });
+        }
     </script>
 </body>
 

@@ -48,7 +48,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/live-reports.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="live-reports" class="pt-5 pb-5">

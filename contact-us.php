@@ -97,7 +97,7 @@
 	<?php include('layouts/navbar.php'); ?>
 
 	<section id="banner-sec" class="shadow-sm">
-		<img src="images/banners/home-banner.jpg" alt="webcome banner" class="img-fluid">
+		<img src="images/banners/contact-us.jpg" alt="webcome banner" class="img-fluid">
 	</section>
 
 	<section id="contact-info" class="pt-5 pb-5 shadow-sm">
@@ -175,11 +175,11 @@
 						width="100%" height="100%" frameborder="0" allowfullscreen=""></iframe>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">
-					<div class="pt-5 pb-5">
+					<div class="pt-5 pb-4">
 						<h2 class="font-weight-bold">CONTACT WITH US</h2>
 						<div class="bg-secondary heading-underline"></div>
 						<br>
-						<form id="contact-form" action="#" method="post">
+						<form id="contact-form" onsubmit="return submitContact(event)" method="post">
 							<div class="form-group">
 								<input class="form-control" type="text" name="name" id="contact-us-name"
 									placeholder="Full Name" required="">
@@ -202,8 +202,12 @@
 									Send Your Message
 								</button>
 								<div class="clearfix"></div>
+								<div class="bg-primary w-100 text-center loader d-none">
+									<div class="spinner-border" role="status">
+										<span class="sr-only mt-2 d-inline-block"></span>
+									</div>
+								</div>
 							</div>
-							<div class="form_loader"></div>
 						</form>
 					</div>
 				</div>
@@ -212,6 +216,39 @@
 	</section>
 
 	<?php include('layouts/footer.php'); ?>
+
+
+	<script>
+		function submitContact(e) {
+			e.preventDefault();
+			$.ajax({
+				'url': 'php/submit-contact.php',
+				'type': 'post',
+				'data': {
+					name: $('#contact-us-name').val(),
+					email: $('#contact-us-mail').val(),
+					phone: $('#contact-us-phone').val(),
+					message: $('#contact-us-message').val()
+				},
+				beforeSend: function () {
+					$('#contact-us-submit').addClass('d-none');
+					$('.loader').removeClass('d-none');
+				},
+				success: function (data) {
+					var obj = JSON.parse(data);
+					if (obj.status == 'success') {
+						alert(obj.message);
+					} else {
+						alert(obj.message);
+					}
+				},
+				complete: function () {
+					$('#contact-us-submit').removeClass('d-none');
+					$('.loader').addClass('d-none');
+				}
+			});
+		}
+	</script>
 </body>
 
 </html>

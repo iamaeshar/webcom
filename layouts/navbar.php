@@ -14,7 +14,7 @@
                     <a class="nav-link" href="/">HOME</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="about-us">ABOUT US</a>
+                    <a class="nav-link" href="about-us.php">ABOUT US</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a class="nav-link dropdown-toggle" href="#" id="productsDropdown" role="button"
@@ -22,42 +22,42 @@
                         OUR PRODUCT
                     </a>
                     <div class="dropdown-menu shadow border-0" aria-labelledby="productsDropdown">
-                        <a href="trade-goldmine-analysis-software" class="dropdown-item">TRADE GOLDMINE ANALYSIS
+                        <a href="trade-goldmine-analysis-software.php" class="dropdown-item">TRADE GOLDMINE ANALYSIS
                             SOFTWARE</a>
-                        <a href="trade-goldmine-robo" class="dropdown-item">TRADE GOLDMINE ROBO</a>
-                        <a href="gold-magic-robo" class="dropdown-item">GOLD MAGIC ROBO</a>
-                        <a href="forex-trading-software" class="dropdown-item">FOREX-TRADING
+                        <a href="trade-goldmine-robo.php" class="dropdown-item">TRADE GOLDMINE ROBO</a>
+                        <a href="gold-magic-robo.php" class="dropdown-item">GOLD MAGIC ROBO</a>
+                        <a href="forex-trading-software.php" class="dropdown-item">FOREX-TRADING
                             SOFTWARE</a>
-                        <a href="gold-trading-software" class="dropdown-item">GOLD-TRADING
+                        <a href="gold-trading-software.php" class="dropdown-item">GOLD-TRADING
                             SOFTWARE</a>
                     </div>
                 </li>
-                <li class="nav-item"><a href="services" class="nav-link">SERVICES</a>
+                <li class="nav-item"><a href="services.php" class="nav-link">SERVICES</a>
                 </li>
                 <li class="nav-item dropdown">
                     <a href="commodities" class="nav-link dropdown-toggle" data-toggle="dropdown">COMMODITIES</a>
                     <div class="dropdown-menu shadow border-0">
-                        <a href="silver-magic-robot-software" class="dropdown-item">SILVER MAGIC
+                        <a href="silver-magic-robot-software.php" class="dropdown-item">SILVER MAGIC
                             ROBOT
                             SOFTWARE</a>
-                        <a href="stock-market-trading-software" class="dropdown-item">STOCK MARKET
+                        <a href="stock-market-trading-software.php" class="dropdown-item">STOCK MARKET
                             TRADING
                             SOFTWARE</a>
-                        <a href="best-stock-share-trading-software" class="dropdown-item">
+                        <a href="best-stock-share-trading-software.php" class="dropdown-item">
                             BEST STOCK SHARE TRADING SOFTWARE</a>
-                        <a href="mcx-trading-software" class="dropdown-item">
+                        <a href="mcx-trading-software.php" class="dropdown-item">
                             MCX TRADING SOFTWARE</a>
-                        <a href="nifty-trading-software" class="dropdown-item">
+                        <a href="nifty-trading-software.php" class="dropdown-item">
                             NIFTY TRADING SOFTWARE</a>
-                        <a href="share-trading-markets-signaling-software" class="dropdown-item">
+                        <a href="share-trading-markets-signaling-software.php" class="dropdown-item">
                             SHARE TRADING MARKETS SIGNALING SOFTWARE</a>
                     </div>
                 </li>
-                <li class="nav-item"><a href="franchise" class="nav-link">FRANCHISE</a></li>
-                <li class="nav-item"><a href="live-reports" class="nav-link">LIVE REPORTS</a></li>
+                <li class="nav-item"><a href="franchise.php" class="nav-link">FRANCHISE</a></li>
+                <li class="nav-item"><a href="live-reports.php" class="nav-link">LIVE REPORTS</a></li>
                 <li class="nav-item"><a href="https://sidmalhotrawebcom.blogspot.in/" target="_blank"
                         class="nav-link">BLOG</a></li>
-                <li class="nav-item"><a href="contact-us" class="nav-link">CONTACT US</a></li>
+                <li class="nav-item"><a href="contact-us.php" class="nav-link">CONTACT US</a></li>
                 <!-- <li class="nav-item"><a href="enquiry" class="nav-link">ENQUIRY</a></li> -->
             </ul>
         </div>
