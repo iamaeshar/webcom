@@ -12,18 +12,21 @@
 <!-- Google Fonts - Roboto -->
 <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
 
+<!-- Favicon -->
+<link rel="icon" type="image/png" href="favicon-16x16.png">
+
 <!-- Google Websmaster -->
-<!-- <meta name="google-site-verification" content="aKMm7oEJjuTYQ5Zc8rYJmbXjMAXtlz4CDmwNxCm93bY" /> -->
+<meta name="google-site-verification" content="aKMm7oEJjuTYQ5Zc8rYJmbXjMAXtlz4CDmwNxCm93bY" />
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-124626242-1"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-124626242-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
 
-        gtag('config', 'UA-124626242-1');
-    </script> -->
+    gtag('config', 'UA-124626242-1');
+</script>
 
 <!-- My CSS  -->
 <link rel="stylesheet" href="css/style.css">

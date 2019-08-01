@@ -3,13 +3,17 @@
         <div class="row">
             <div class="col-lg-6 col-md-6 col-sm-12 mb-3">
                 <div>
-                    <a class="text-white mr-2" href="https://www.facebook.com/webcomTrade/"><i class="fa-2x fab fa-facebook-square"></i></a>
-                    <a class="text-white mr-2" href="https://twitter.com/etrade_webcom"><i class="fa-2x fab fa-twitter-square"></i></a>
-                    <a class="text-white mr-2" href="https://in.linkedin.com/company/webcom-etrade"><i class="fa-2x fab fa-linkedin"></i></a>
+                    <a class="text-white mr-2" href="https://www.facebook.com/webcomTrade/"><i
+                            class="fa-2x fab fa-facebook-square"></i></a>
+                    <a class="text-white mr-2" href="https://twitter.com/etrade_webcom"><i
+                            class="fa-2x fab fa-twitter-square"></i></a>
+                    <a class="text-white mr-2" href="https://in.linkedin.com/company/webcom-etrade"><i
+                            class="fa-2x fab fa-linkedin"></i></a>
                 </div>
                 <br>
                 <p>
-                    Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in India -
+                    Copyright © 2017 Profits in Nifty MCX Gold, Forex, Nifty, Share Trading & Signalling Software in
+                    India -
                     All Rights Reserved
                 </p>
             </div>
@@ -24,7 +28,8 @@
                 </div>
                 <br>
                 <p class="mt-2">
-                    Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech Pvt
+                    Designed and Developed by <a href="https://www.wampinfotech.com" class="text-white">WAMP Infotech
+                        Pvt
                         Ltd.</a>
                 </p>
             </div>
@@ -68,7 +73,7 @@
 </script>
 
 <!-- Google Analytics -->
-<!-- <script>
+<script>
         (function (i, s, o, g, r, a, m) {
             i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
 
@@ -79,23 +84,23 @@
 
         })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-        ga('create', 'UA-99610789-1', 'auto');
-        ga('send', 'pageview');
-    </script> -->
+    ga('create', 'UA-99610789-1', 'auto');
+    ga('send', 'pageview');
+</script>
 
 <!-- Google Code for Remarketing Tag -->
-<!-- <script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 1009178095;
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 1009178095;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
 		/* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display:inline;">
-            <img height="1" width="1" style="border-style:none;" alt=""
-                src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1009178095/?guid=ON&amp;script=0" />
-        </div>
-    </noscript> -->
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt=""
+            src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1009178095/?guid=ON&amp;script=0" />
+    </div>
+</noscript>

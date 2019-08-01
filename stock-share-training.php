@@ -48,7 +48,7 @@
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 pl-0">
-					<iframe width="100%" height="100%" src="http://www.youtube.com/embed/CMChPD13P2A" frameborder="0"
+					<iframe width="100%" height="100%" src="https://www.youtube.com/embed/CMChPD13P2A" frameborder="0"
 						allowfullscreen class="shadow"></iframe>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12">

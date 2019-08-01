@@ -521,6 +521,17 @@
                     items: 1
                 });
             }
+
+            endpoint = 'latest'
+            access_key = '18617194ad79150fe2a4682d2686b809';
+
+            $.ajax({
+                url: 'http://data.fixer.io/api/' + endpoint + '?access_key=' + access_key,
+                dataType: 'jsonp',
+                success: function (json) {
+                    console.log(json);
+                }
+            });
         });
 
         function submitContact(e) {
